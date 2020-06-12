@@ -6,3 +6,6 @@ This is first file created in Git repostory as README.md
 
 This change to the README.md file is after initial commit
 
+### Demo 3rd change
+
+This is potato
